@@ -21,5 +21,6 @@ function save(){
 }
 
 function remove(){
-    saveEl.innerText =  final
+    saveEl.innerText = "previous entries:" 
+ 
 }
